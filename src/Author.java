@@ -13,9 +13,12 @@ public class Author {
     }
 
     public String getName() {
-        return surname;
+        return name;
     }
 
+    public String setSurname() {
+        return name;
+    }
     public String setName() {
         return name;
     }
